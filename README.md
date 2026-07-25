@@ -192,7 +192,7 @@ Duplicate Detection
 Replace the image path below after uploading your architecture diagram.
 
 ```markdown
-![Workflow Architecture](screenshots/workflow-architecture.png.png)
+![Architecture diagram](screenshots/workflow-architecture.png.png)
 ```
 
 ---
@@ -272,7 +272,7 @@ This ensures that every lead contains sufficient information before entering the
 
 ### Screenshot
 
-![Lead Form](screenshots/lead-form.png)
+![Lead Form](screenshots/lead-form.png.png)
 
 ---
 
@@ -414,7 +414,7 @@ The workflow continues to CRM storage.
 
 ### Screenshot
 
-![Duplicate Detection](screenshots/duplicate-detection.png)
+![Fake lead screenshot](screenshots/duplicate-detection.png.png)
 
 ---
 
@@ -443,7 +443,7 @@ This provides sales representatives with complete customer context before making
 
 ### Screenshot
 
-![Google Sheets CRM](screenshots/crm-google-sheets.png)
+![Google Sheets](screenshots/crm-google-sheets.png.png)
 
 ---
 
@@ -464,7 +464,7 @@ This enables sales representatives to respond immediately without opening the CR
 
 ### Screenshot
 
-![Sales Notification](screenshots/gmail-notification.png)
+![Gmailfication](screenshots/gmail-notification.png.png)
 
 ---
 
@@ -568,10 +568,8 @@ Before importing the workflow, ensure you have access to:
 ## Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/your-github-username/AI-Lead-Qualification-System.git
+git clone https://github.com/sanvi-builds/AI-Lead-Qualification-System.git
 ```
-
-Replace `your-github-username` with your actual GitHub username.
 
 ---
 
