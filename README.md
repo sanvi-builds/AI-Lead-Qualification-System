@@ -1,4 +1,4 @@
-# 🤖 AI Lead Qualification & CRM Automation System
+# 🤖 AI Lead Qualification & CRM Automation System 
 
 > **An AI-powered Lead Qualification System built with n8n, OpenAI GPT-4.1 Mini, Google Sheets, and Gmail to automatically analyze, score, classify, and manage real estate leads for sales teams.**
 
