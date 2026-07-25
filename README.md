@@ -189,10 +189,8 @@ Duplicate Detection
 
 ## 📌 Workflow Diagram
 
-Replace the image path below after uploading your architecture diagram.
-
 ```markdown
-![Architecture diagram](screenshots/workflow-architecture.png.png)
+![Architecture diagram](./screenshots/architecture-diagram.png)
 ```
 
 ---
