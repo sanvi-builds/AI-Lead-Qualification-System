@@ -270,7 +270,7 @@ This ensures that every lead contains sufficient information before entering the
 
 ### Screenshot
 
-![Lead Form](./screenshots/lead-form.png)
+![Lead Form](./screenshots/Lead-form.png)
 
 ---
 
