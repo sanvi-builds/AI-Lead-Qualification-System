@@ -189,9 +189,9 @@ Duplicate Detection
 
 ## 📌 Workflow Diagram
 
-```markdown
+
 ![Architecture diagram](./screenshots/architecture-diagram.png)
-```
+
 
 ---
 
@@ -270,7 +270,7 @@ This ensures that every lead contains sufficient information before entering the
 
 ### Screenshot
 
-![Lead Form](screenshots/lead-form.png.png)
+![Lead Form](./screenshots/lead-form.png)
 
 ---
 
@@ -412,7 +412,7 @@ The workflow continues to CRM storage.
 
 ### Screenshot
 
-![Fake lead screenshot](screenshots/duplicate-detection.png.png)
+![Fake lead screenshot](./screenshots/duplicate-detection.png)
 
 ---
 
@@ -441,7 +441,7 @@ This provides sales representatives with complete customer context before making
 
 ### Screenshot
 
-![Google Sheets](screenshots/crm-google-sheets.png.png)
+![Google Sheets](./screenshots/crm-google-sheets.png)
 
 ---
 
@@ -462,7 +462,7 @@ This enables sales representatives to respond immediately without opening the CR
 
 ### Screenshot
 
-![Gmailfication](screenshots/gmail-notification.png.png)
+![Gmailfication](./screenshots/gmail-notification.png)
 
 ---
 
