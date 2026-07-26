@@ -243,6 +243,9 @@ AI-Lead-Qualification-System/
 │
 └── LICENSE
 ```
+# 🖥️ Workflow Overview
+
+![Workflow Overview](screenshots/workflow-overview.png)
 
 ---
 # ⚙️ Workflow Breakdown
